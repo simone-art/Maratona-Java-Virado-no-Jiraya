@@ -1,3 +1,5 @@
+package academy.devdojo.maratona.introducao;
+
 public class olaDevDojo {
     public static void main (String[] args){
 
