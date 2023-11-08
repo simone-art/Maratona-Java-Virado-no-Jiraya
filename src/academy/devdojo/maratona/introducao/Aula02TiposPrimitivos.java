@@ -27,5 +27,9 @@ public class Aula02TiposPrimitivos {
 
         //Cast força a colocar um valor de uma variável em outra
         int ageCastLong = (int) 1000000000000000L;
+
+        //String não é um primitivo e sim um reference type
+        String name = "Simone";
+        System.out.println("String: " + name);
     }
 }
