@@ -17,5 +17,19 @@ public class AulaO4Operadores {
         System.out.println(divisao);
         System.out.println(multiplicacao);
         System.out.println(subtracao);
+
+        // Operadores lógicos sempre retornan valores booleanos
+        // Só se pode comparar com valores numéricos 
+        // <= => == !=
+
+        boolean isDezMaiorDoQueVente = 10 > 20;
+        boolean isDezMenorDoQueVente = 10 < 20;
+        boolean isDezIgualaDez = 10 == 10;
+        boolean isDezDiferenteDeDez = 10 != 10;
+
+        System.out.println(isDezMaiorDoQueVente);
+        System.out.println(isDezMenorDoQueVente);
+        System.out.println(isDezIgualaDez);
+        System.out.println(isDezDiferenteDeDez);
     }
 }
