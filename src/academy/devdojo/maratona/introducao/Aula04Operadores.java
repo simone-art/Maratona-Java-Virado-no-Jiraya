@@ -1,6 +1,6 @@
 package academy.devdojo.maratona.introducao;
 
-public class AulaO4Operadores {
+public class Aula04Operadores {
 
     public static void main(String[] args) {
 
@@ -19,7 +19,7 @@ public class AulaO4Operadores {
         System.out.println(subtracao);
 
         // Operadores lógicos sempre retornan valores booleanos
-        // Só se pode comparar com valores numéricos 
+        // Só se pode comparar com valores numéricos
         // <= => == !=
 
         boolean isDezMaiorDoQueVente = 10 > 20;
